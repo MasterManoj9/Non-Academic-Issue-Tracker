@@ -1,7 +1,7 @@
 # Non-Academic-Issue-Tracker
 Tracking and solving every individual non academic related issues in the college.
 - 📝 **Purpose**: The **NMIMS Issue Tracker** streamlines non-academic issue management for students, faculty, and staff at NMIMS.  
-- 💻 **Tech Stack**: Built with PHP, MySQL, and Chart.js for a robust web solution.  
+- 💻 **Tech Stack**: Built with PHP, MySQL, and json for a robust web solution.  
 - 🎟️ **Features**:  
   - Allows ticket creation, tracking, and resolution for issues like maintenance or hostel concerns.  
   - 🎨 Offers visual analytics with charts for better insights.  
